@@ -1,0 +1,4 @@
+clear
+echo " tinh tong 2 so a, b"
+c=$ (expr s1+s2)
+echo KQ "s1+s2=c"
